@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mervin 
-- 👀 I’m interested in Web technologies, data science
-- 🌱 I’m currently learning python and R for data science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in java and future technologies
+- 🌱 I have good understanding of core java,springboot,web services
+-    I'm a young man with lot of potential and ideas
+- 💞️ I’m looking for my first opportunity
 - 📫 How to reach me : mervinloy13@gmail.com 
 
 <!---
